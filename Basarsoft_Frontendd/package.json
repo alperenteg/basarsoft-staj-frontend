@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jspanel4": "^4.16.1",
+    "ol": "^10.1.0",
+    "proxy": "http://localhost:5275"
+  }
+  
+}
